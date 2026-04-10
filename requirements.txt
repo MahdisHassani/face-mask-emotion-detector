@@ -1,0 +1,9 @@
+torch
+torchvision
+streamlit
+opencv-python
+facenet-pytorch
+Pillow
+tqdm
+pandas
+time
